@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Organisme vivant]]
+- Définition
+	- L'hérédité désigne la transmission de caractéristiques d'une génération d'organismes vivants à la suivante.
+- Sources
+	- [Wikipedia](https://fr.wikipedia.org/wiki/H%C3%A9r%C3%A9dit%C3%A9)

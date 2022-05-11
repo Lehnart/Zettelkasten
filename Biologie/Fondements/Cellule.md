@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Organisme vivant]]
+- Définition
+	- Une cellule est l'unité fondamentale de tous les organismes vivants connus.
+- Sources
+	- [Wikipedia](https://fr.wikipedia.org/wiki/Cellule_(biologie))

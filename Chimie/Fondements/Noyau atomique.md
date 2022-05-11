@@ -1,0 +1,8 @@
+- Prérequis
+	-	[[Atome]]
+	-	[[Proton]]
+	-	[[Neutron]]
+- Définition
+	- Le noyau atomique est la région située au centre d'un atome constituée de protons et de neutrons.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Noyau_atomique)

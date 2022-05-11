@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Elément chimique]]
+	- [[Numéro atomique]]
+- Définition
+	- Le carbone est un élément chimique de numéro atomique 6.
+- Sources
+	- [Wikipedia](https://fr.wikipedia.org/wiki/Carbone)

@@ -1,0 +1,8 @@
+- Prérequis 
+	- [[Atome]]
+	- [[Noyau atomique]]
+	- [[Proton]]
+- Définition
+	- Un élément chimique est la classe des atomes dont le noyau compte un nombre donné de protons.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/%C3%89l%C3%A9ment_chimique)

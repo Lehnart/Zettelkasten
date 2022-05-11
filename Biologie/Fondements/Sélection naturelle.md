@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Hérédité]]
+	- [[Reproduction]]
+- Définition
+	- La sélection naturelle désigne l'hérédité favorisant les caractéristiques favorable à la reproduction.
+- Sources
+	- [[Pour la science n°506]]

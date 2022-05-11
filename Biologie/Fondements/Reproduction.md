@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Organisme vivant]]
+- Définition
+	- La reproduction est un processus biologique permettant la production de nouveaux organismes à partir d'individus préexistants.
+- Sources
+	- [Wikipedia](https://fr.wikipedia.org/wiki/Reproduction_(biologie))

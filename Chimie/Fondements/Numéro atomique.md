@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Atome]]
+	- [[Proton]]
+- Définition
+	- Le numéro atomique représente le nombre de protons d'un atome
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Num%C3%A9ro_atomique)

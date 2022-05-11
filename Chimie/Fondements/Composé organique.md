@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Atome]]
+	- [[Molécule]]
+	- [[Carbone]]
+- Définition
+	- Un composé organique est une molécule dont au moins un atome est un carbone.
+- Sources
+	- [Wikipedia](https://fr.wikipedia.org/wiki/Compos%C3%A9_organique)

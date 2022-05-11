@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Gène]]
+	- [[Organisme vivant]]
+- Définition
+	- Le transfert horizontal de gène est la capacité de certains organismes vivants à assimiler des gènes d'autres individus que leurs parents.
+- Sources
+	- [[Pour la science n°506]]

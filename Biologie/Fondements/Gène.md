@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Hérédité]]
+- Définition
+	- Le gène est l'unité de base de l'hérédité.
+- Sources
+	- [futura-sciences](https://www.futura-sciences.com/sante/definitions/genetique-gene-151/)
