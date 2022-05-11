@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Molécule biologique]]
+	- [[Organisme vivant]]
+- Définition
+	- Une protéine est une classe de molécules biologiques présente dans tous les organismes vivants.
+- Sources
+	- [Wikipedia](https://fr.wikipedia.org/wiki/Prot%C3%A9ine)
