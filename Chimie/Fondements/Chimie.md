@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Atome]]
+	- [[Molécule]]
+- Définition
+	- La chimie est l'étude des interactions de la matière au niveau atomique et moléculaire.
+- Sources 
+	- [Wikipedia](https://fr.wikipedia.org/wiki/Chimie)

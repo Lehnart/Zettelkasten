@@ -1,0 +1,5 @@
+- Prérequis
+- Définition
+	- Une espèce chimique fait référence à un ensemble d'entités chimiques identiques.
+- Sources 
+	- [futura-sciences](https://www.futura-sciences.com/sciences/definitions/chimie-espece-chimique-15222/)
