@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Répertoire]]
+- Définition
+	- Un répertoire racine est un répertoire qui est à la base des répertoires. Autrement dit, aucun répertoire ne peut le contenir.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/R%C3%A9pertoire_racine)

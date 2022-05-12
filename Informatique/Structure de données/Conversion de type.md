@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Valeur]]
+	- [[Variable]]
+	- [[Type]]
+- Définition
+	- La conversion de type consiste à convertir la valeur d'une variable d'un type donnée en une valeur d'un autre type.
+- Sources
+	- [[Exercices en langage C++]]

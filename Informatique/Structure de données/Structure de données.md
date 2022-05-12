@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Données]]
+- Définition
+	- Une structure de données est un mode d'organisation des données.
+- Sources
+	- [[Programmation efficace]]

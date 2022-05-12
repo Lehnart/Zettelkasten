@@ -1,0 +1,5 @@
+- Prérequis
+- Définition
+	- Un nombre est un concept permettant d'évaluer et de comparer des quantités.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Nombre)

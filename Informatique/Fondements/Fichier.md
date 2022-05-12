@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Mémoire]]
+	- [[Données]]
+- Définition
+	- Un fichier est un ensemble de données réunies sous un même nom et qui est stocké en mémoire.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Fichier_informatique)

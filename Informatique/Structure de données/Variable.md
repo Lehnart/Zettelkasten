@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Valeur]]
+- Définition
+	- Une variable est un nom qui fait référence à une valeur.
+- Sources
+	- [[Think Python]]

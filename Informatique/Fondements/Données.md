@@ -1,0 +1,5 @@
+- Prérequis
+- Définition
+	- Une donnée est une information pouvant être représentée sous forme binaire.
+- Sources
+	-	[[Architecture logicielle]]

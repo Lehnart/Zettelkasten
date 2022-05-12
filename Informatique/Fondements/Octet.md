@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Bit]]
+- Définition
+	- Un octet est une unité de mémoire composé de 8 bits.
+- Sources
+	- [[Computation physics problem solving with python]]

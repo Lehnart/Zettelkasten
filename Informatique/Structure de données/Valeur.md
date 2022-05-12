@@ -1,0 +1,11 @@
+- Prérequis
+	- [[Bit]]
+	- [[Type]]
+	- [[Variable]]
+- Définition
+	- Une valeur est un ensemble de bits interprété en fonction du type de la variable qui les contient. 
+- Sources
+	- [[Think Python]]
+	- [[Programmation principes et pratiques en C++]]
+	- [[Haskell programming from first principles]]
+	- [[Programmation efficace]]

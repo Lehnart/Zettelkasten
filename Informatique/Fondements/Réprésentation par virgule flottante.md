@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Représentation d'un nombre]]
+	- [[Chiffre]]
+	- [[Nombre]]
+- Définition
+	- La représentation par virgule flottante est une représentation d'un nombre où le nombre de chiffre après la virgule peut varier.
+- Sources
+	- [[Computation physics problem solving with python]]

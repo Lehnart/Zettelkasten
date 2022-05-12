@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Mémoire]]
+- Définition
+	- Un bit est l'unité élémentaire de la mémoire. Il peut valoir 1 ou 0.
+- Sources
+	- [[Computation physics problem solving with python]]

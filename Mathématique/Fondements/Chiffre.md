@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Nombre]]
+- Définition
+	- Un chiffre est un signe d'écriture utilisé pour représenter des nombres.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Chiffre)

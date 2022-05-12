@@ -1,0 +1,6 @@
+- Prérequis
+	-	[[Données]]
+- Définition
+	- La mémoire est une fonctionnalité permettant de stocker des données. 
+- Sources
+	- [[Architecture logicielle]]

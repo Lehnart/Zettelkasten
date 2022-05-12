@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Bit]]
+	- [[Nombre]]
+- Définition
+	- La représentation d'un nombre consiste à utiliser des bits pour représenter des nombres, et comment gérer les limites de cette représentation.
+- Sources
+	-	[[Computation physics problem solving with python]]

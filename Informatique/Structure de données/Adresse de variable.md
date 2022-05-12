@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Variable]]
+	- [[Mémoire]]
+- Définition
+	-	Une adresse d'une variable est une valeur désignant l'emplacement d'une variable en mémoire.
+-  Sources
+	-  [Wikipedia](https://fr.wikipedia.org/wiki/Adressage_m%C3%A9moire)

@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Représentation d'un nombre]]
+	- [[Chiffre]]
+	- [[Nombre]]
+- Définition
+	- La représentation par virgule fixe est une représentation d'un nombre dont le nombre de chiffres après la virgule est fixé dans la représentation.
+- Sources
+	- [[Computation physics problem solving with python]]
