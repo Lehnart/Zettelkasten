@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Source d'énergie]]
+	- [[Bien]]
+	- [[Matière première]]
+- Définition
+	- Une industrie désigne la production de biens grâce à la transformation de matières premières et de l'exploitation de sources d'énergies.
+- Sources
+	- [Wikipedia](https://fr.wikipedia.org/wiki/Industrie)

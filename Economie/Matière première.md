@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Matière]]
+- Définition
+	- Une matière première est une matière à l'état brut.
+- Sources
+	- [Wikipedia]([Wikipédia](https://fr.wikipedia.org/wiki/Mati%C3%A8re_premi%C3%A8re))

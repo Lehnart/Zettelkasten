@@ -1,0 +1,5 @@
+- Prérequis
+- Définition
+	- L'énergie est la mesure de la capacité d'un système à modifier son état.
+- Sources
+	- [Wikipedia](https://fr.wikipedia.org/wiki/%C3%89nergie_(physique))

@@ -1,0 +1,5 @@
+- Prérequis
+- Définition
+	-	Un bien est une chose utilisable pour combler un besoin fondamental.
+- Sources
+	- [Wikipedia]([Wikipédia](https://fr.wikipedia.org/wiki/Bien_(%C3%A9conomie)))

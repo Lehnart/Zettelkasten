@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Energie]]
+- Définition
+	- Une source d'énergie est un phénomène physique dont il est possible d'exploiter l'énergie.
+- Sources
+	- [Wikipedia](https://fr.wikipedia.org/wiki/Source_d%27%C3%A9nergie)
