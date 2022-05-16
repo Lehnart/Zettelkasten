@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Type]]
+	- [[Bit]]
+	- [[Données]]
+- Définition
+	-	Un format de données désigne la facon dont on représente un type de données en bit.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Format_de_donn%C3%A9es)

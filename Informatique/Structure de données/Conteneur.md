@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Données]]
+- Définition
+	-	Un conteneur est un type de données qui peut contenir une collection d'autres données.
+- Sources
+	- [[Programmation principes et pratiques en C++]]

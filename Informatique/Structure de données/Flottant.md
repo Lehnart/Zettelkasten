@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Type]]
+	- [[Nombre réel]]
+- Définition
+	-	Un flottant est un type qui représente un nombre réel.
+- Sources
+	- [[Think Python]]

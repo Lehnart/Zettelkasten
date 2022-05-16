@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Type]]
+	- [[Nombre entier]]
+- Définition
+	- Un entier est un type qui représente un nombre entier
+- Sources
+	- [[Think Python]]

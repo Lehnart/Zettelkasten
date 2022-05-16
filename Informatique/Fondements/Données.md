@@ -1,5 +1,6 @@
 - Prérequis
+	- [[Bit]]
 - Définition
-	- Une donnée est une information pouvant être représentée sous forme binaire.
+	- Une donnée est une information pouvant être représentée sous forme de bits.
 - Sources
 	-	[[Architecture logicielle]]
