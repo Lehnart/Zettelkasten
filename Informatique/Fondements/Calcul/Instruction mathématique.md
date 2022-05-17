@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Calcul]]
+	- [[Instruction]]
+- Définition
+	-	Une instruction mathématique est une instruction qui effectue un calcul mathématique.
+- Sources
+	- [[Think Python]]

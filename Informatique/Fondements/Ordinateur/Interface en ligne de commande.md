@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Ordinateur]]
+	- [[Utilisateur]]
+- Définition
+	-	Un interface en ligne de commande est une interface entre l'ordinateur et l'utilisateur qui utilise du texte.
+- Sources
+	-	[[Développement système sous linux]]

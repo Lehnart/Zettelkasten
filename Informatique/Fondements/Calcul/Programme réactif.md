@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Programme]]
+- Définition
+	-	Un programme réactif est un programme dont le but est de maintenir une interaction avec l'environnement.
+- Sources
+	- [[Architecture logicielle]]

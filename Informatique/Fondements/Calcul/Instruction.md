@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Calcul]]
+- Définition
+	-	Une instruction est une action à effectuer, qui n'a aucune ambiguité et qui fait parti d'un calcul.
+- Sources
+	- [[Think Python]]

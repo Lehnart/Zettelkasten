@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Programme]]
+- Définition
+	-	La programmation automatique consiste en l'écriture d'un programme par un autre programme.
+- Sources
+	- [[An introduction to genetic algorithms]]

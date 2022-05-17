@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Implémentation]]
+	- [[Instruction]]
+- Définition
+	-	Un programme est une séquence d'instructions qui spécifie une implémentation
+- Sources
+	- [[Think Python]]
+	- [[Programmation principes et pratiques en C++]]

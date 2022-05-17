@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Ordinateur]]
+	- [[Données]]
+- Définition
+	-	Un réseau informatique est un ensemble d'ordinateurs reliés et qui échangent des données.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/R%C3%A9seau_informatique)

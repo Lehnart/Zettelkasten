@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Données]]
+- Définition
+	-	Un calcul est un processus qui prend des données en entrées et qui produit des données en sortie.
+- Sources
+	- [[Think Python]]

@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Données]]
+	- [[Programme]]
+- Définition
+	-	Un ordinateur est un système de traitement de données programmable.
+- Sources
+	-	[[Think Python]]

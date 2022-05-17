@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Programme]]
+- Définition
+	-	Un programme transformationnel est un programme dont la finalité est de produite un résultat
+- Sources
+	- [[Architecture logicielle]]

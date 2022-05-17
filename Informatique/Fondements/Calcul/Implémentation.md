@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Calcul]]
+- Définition
+	-	Une implémentation est une facon de réaliser un calcul donnée.
+- Sources
+	- [[Think Python]]

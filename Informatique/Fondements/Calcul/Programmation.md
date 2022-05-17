@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Calcul]]
+	- [[Programme]]
+- Définition
+	-	La programmation est l'activité d'écrire des programmes qui permettent d'exécuter un calcul.
+- Sources
+	- [[Computation physics problem solving with python]]
+	- [[Programmation principes et pratiques en C++]]

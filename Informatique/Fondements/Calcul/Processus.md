@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Programme]]
+	- [[Ordinateur]]
+	- [[Mémoire]]
+- Définition
+	-	Un processus est un programme en cours d'exécution par un ordinateur sur un espace mémoire dédié.
+- Sources
+	-	[[Développement système sous linux]]

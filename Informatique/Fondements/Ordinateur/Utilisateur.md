@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Ordinateur]]
+- Définition
+	-	Un utilisateur est une personne ou un ordinateur utilisant un ordinateur.
+- Sources
+	-	[[Développement système sous linux]]

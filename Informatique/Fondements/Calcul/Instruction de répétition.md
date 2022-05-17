@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Instruction]]
+- Définition
+	-	Une instruction de répitition est une instruction qui exécute des instructions à plusieurs reprises.
+- Sources
+	- [[Think Python]]

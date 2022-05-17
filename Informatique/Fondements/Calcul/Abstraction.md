@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Implémentation]]
+	- [[Instruction]]
+- Définition
+	-	Une abstraction consiste à cacher le détail des instructions composant une implémentation, tout en permettant leur utilisation.
+- Sources
+	- [[Programmation principes et pratiques en C++]]

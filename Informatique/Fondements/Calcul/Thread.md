@@ -1,0 +1,11 @@
+---
+aliases : [ Thread, Fil d exécution, Processus léger ]
+---
+- Prérequis
+	- [[Programme]]
+	- [[Ordinateur]]
+	- [[Mémoire]]
+- Définition
+	-	Un thread est un programme en cours d'exécution par un ordinateur sur un espace mémoire partagé.
+- Sources
+	-	[[Développement système sous linux]]

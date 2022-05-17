@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Données]]
+	- [[Instruction]]
+- Définition
+	-	Une instruction d'entrée est une instruction qui prend des données depuis une source.
+- Sources
+	- [[Think Python]]
