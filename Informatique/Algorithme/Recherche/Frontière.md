@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Recherche de chemin dans un graphe]]
+	- [[Sommet]]
+- Définition
+	-	La frontière est la liste des sommets qui sont accessibles à partir des noeuds déjà explorés mais qui n'ont pas encore été exploré par la recherche.
+- Sources
+	- [[Artificial Intelligence a Modern Approach]]

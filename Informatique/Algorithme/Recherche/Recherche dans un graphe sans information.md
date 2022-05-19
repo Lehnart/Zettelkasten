@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Recherche de chemin dans un graphe|Recherche dans un graphe]]
+	- [[Arête]]
+- Définition
+	-	Une recherche dans un graphe sans information est une recherche dans un graphe qui ne prend pas en compte les poids sur les arêtes.
+- Sources
+	- [[Programming game AI by example]]

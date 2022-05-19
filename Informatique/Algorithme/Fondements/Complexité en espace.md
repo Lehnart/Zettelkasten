@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Algorithme]]
+	- [[Mémoire]]
+- Définition
+	- La complexité en espace d'un algorithme est l'espace en mémoire qui est requis pour qu'il se termine.
+- Sources
+	- [[Artificial Intelligence a Modern Approach]]

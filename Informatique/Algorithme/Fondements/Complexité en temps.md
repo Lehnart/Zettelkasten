@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Algorithme]]
+- Définition
+	- La complexité en temps d'un algorithme est le temps qui est requis pour qu'il se termine.
+- Sources
+	- [[Artificial Intelligence a Modern Approach]]
