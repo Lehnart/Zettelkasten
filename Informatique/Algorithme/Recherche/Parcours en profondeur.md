@@ -1,0 +1,10 @@
+- Prérequis
+	- [[Graphe]]
+	- [[Arête]]
+	- [[Profondeur]]
+	- [[Parcours]]
+- Définition
+	-	Un parcours en profondeur consiste à faire le choix de d'aller le plus en profondeur possible, c'est à dire choisir une arète qui éloigne du point de départ, dans le graphe.
+- Sources
+	- [[Programming game AI by example]]
+	- [[Artificial Intelligence a Modern Approach]]

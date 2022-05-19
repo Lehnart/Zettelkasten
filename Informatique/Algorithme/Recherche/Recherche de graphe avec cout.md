@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Recherche de chemin dans un graphe|Recherche dans un graphe]]
+	- [[Chemin]]
+	- [[Arête]]
+- Définition
+	- Une recherche de graphe avec cout consiste en une optimisation d'un chemin sur la somme des poids des arêtes parcourus par le chemin.
+- Sources
+	- [[Programming game AI by example]]

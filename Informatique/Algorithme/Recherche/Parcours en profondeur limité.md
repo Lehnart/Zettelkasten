@@ -1,0 +1,9 @@
+- Prérequis
+	- [[Parcours en profondeur]]
+	- [[Arête]]
+	- [[Parcours en profondeur]]
+	- [[Parcours]]
+- Définition
+	-	Un parcours en profondeur limité consiste en un parcours en profondeur en limitant la profondeur, c'est à dire le nombre d'arète séparant du point de départ.
+- Sources
+	- [[Artificial Intelligence a Modern Approach]]

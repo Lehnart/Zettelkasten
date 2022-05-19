@@ -1,0 +1,9 @@
+- Prérequis
+	- [[Algorithme]]
+	- [[Recherche de graphe avec cout]]
+	- [[Chemin]]
+- Définition
+	-	L'algorithme A* est un algorithme de recherche de graphe avec cout qui permet d'estimer le chemin le plus court.
+- Sources
+	- [[Programming game AI by example]]
+	- [[Artificial Intelligence a Modern Approach]]

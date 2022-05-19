@@ -1,0 +1,9 @@
+- Prérequis
+	- [[Parcours]]
+	- [[Chemin]]
+	- [[Profondeur]]
+- Définition
+	-	Un parcours en largeur consiste à tester tous les chemins à une profondeur donnée avant d'aller à la profondeur suivante.
+- Sources
+	- [[Programming game AI by example]]
+	- [[Artificial Intelligence a Modern Approach]]

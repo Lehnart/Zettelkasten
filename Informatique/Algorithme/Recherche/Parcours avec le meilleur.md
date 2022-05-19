@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Parcours]]
+	- [[Sommet]]
+- Définition
+	-	Un parcours avec le meilleur consiste à choisir le sommet avec le poids le plus ou le moins élevé à chaque étape.
+- Sources
+	- [[Artificial Intelligence a Modern Approach]]

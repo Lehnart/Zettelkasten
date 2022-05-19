@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Algorithme]]
+	- [[Recherche de graphe avec cout]]
+	- [[Chemin]]
+- Définition
+	-	L'algorithme de Djikstra est un algorithme de recherche de graphe avec cout qui permet de construire le chemin le plus court.
+- Sources
+	- [[Programming game AI by example]]

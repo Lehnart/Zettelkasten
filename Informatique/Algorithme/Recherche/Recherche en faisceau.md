@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Recherche de chemin dans un graphe|Recherche dans un graphe]]
+	- [[Sommet]]
+	- [[Frontière]]
+- Définition
+	-	Une recherche en faisceau consiste à ne garder que les meilleurs sommets de la frontière pour choisir l'étape suivante.
+- Sources
+	- [[Artificial Intelligence a Modern Approach]]
