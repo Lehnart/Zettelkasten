@@ -1,0 +1,11 @@
+- Prérequis
+	- [[Problème d'optimisation]]
+	- [[Sélection]]
+	- [[Recombinaison]]
+	- [[Mutation]]
+	- [[Chromosome]]
+- Définition
+	- Un algorithme génétique permet de solutionner un problème d'optimisation et contient en général des étapes de sélection, recombinasion et mutation des chromosomes.
+- Sources
+	- [[An introduction to genetic algorithms]]
+	- [[Artificial Intelligence a Modern Approach]]

@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Chromosome]]
+	- [[Mutation]]
+	- [[Recombinaison]]
+- Définition
+	-	L'évolution d'une population de chromosomes consiste à appliquer des mutations et des recombinaisons sur la population pour en obtenir une nouvelle.
+- Sources
+	- [[An introduction to genetic algorithms]]

@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Chromosome]]
+	- [[Fonction]]
+- Définition
+	-	Une fonction de fitness est une fonction associant un score à chaque chromosome permettant de les classer.
+- Sources
+	-	[[An introduction to genetic algorithms]]

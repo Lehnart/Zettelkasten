@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Loi de probabilité]]
+- Définition
+	-	L'aléatoire désigne tout phénomène ou toutes données suivant une loi de probabilité.
+- Sources
+	- [[Computation physics problem solving with python]]

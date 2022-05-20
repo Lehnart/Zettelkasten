@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Sélection]]
+	- [[Fonction de fitness]]
+- Définition
+	-	La sélection consiste à choisir les chromosomes les mieux classés par la fonction de fitness et qui vont servir à faire la génération suivante.
+- Sources
+	-	[[An introduction to genetic algorithms]]
+	-	[[Artificial Intelligence a Modern Approach]]

@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Recombinaison]]
+- Définition
+	-	Une crossover est une méthode de recombinaison qui prend deux parents, les découpent pour en former deux nouveaux enfants.
+- Sources
+	- [[An introduction to genetic algorithms]]

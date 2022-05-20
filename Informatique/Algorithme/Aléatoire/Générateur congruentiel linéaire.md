@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Séquence aléatoire]]
+	- [[Algorithme]]
+- Définition
+	-	Un générateur congruentiel linéaire est un algorithme qui génère une séquence aléatoire avec la formule : $r_{i+1} = (ar_i + c)\%M$
+- Sources
+	- [[Computation physics problem solving with python]]

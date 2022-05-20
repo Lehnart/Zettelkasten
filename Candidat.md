@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Problème d'optimisation]]
+- Définition
+	- Un candidat est une solution possible d'un problème d'optimisation.
+- Sources
+	- [[An introduction to genetic algorithms]]

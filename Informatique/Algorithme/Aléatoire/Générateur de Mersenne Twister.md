@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Séquence aléatoire]]
+- Définition
+	-	Un générateur de Mersenne Twister est une méthode pour obtenir une séquence aléatoire.
+- Sources
+	-	[[Computation physics problem solving with python]]

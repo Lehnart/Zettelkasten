@@ -1,0 +1,6 @@
+- Prérequis
+	-	[[Algorithme phonétique]]
+- Définition
+	- Soundex est un algorithme phonétique permettant d'indexer des noms par leur son.
+- Sources
+	-	[[Java Cookbook]]

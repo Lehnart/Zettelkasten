@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Informatique/Algorithme/Algorithme génétique/Gène]]
+	- [[Chromosome]]
+- Définition
+	-	La recombinaison consiste à combiner les gènes des chromosomes sélectionnés afin d'en construire de nouveaux.
+- Sources
+	- [[An introduction to genetic algorithms]]

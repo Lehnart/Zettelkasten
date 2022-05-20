@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Aléatoire]]
+	- [[Informatique/Algorithme/Algorithme génétique/Gène]]
+	- [[Chromosome]]
+- Définition
+	-	La mutation consiste à modifier aléatoirement les gènes d'un chromosome afin d'en construire un nouveau.
+- Sources
+	- [[An introduction to genetic algorithms]]

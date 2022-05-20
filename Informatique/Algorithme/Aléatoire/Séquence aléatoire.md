@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Séquence]]
+	- [[Corrélation]]
+- Définition
+	-	Une séquence aléatoire est une séquence qui n'a aucune corrélation entre les termes de la séquence.
+- Sources
+	- [[Computation physics problem solving with python]]

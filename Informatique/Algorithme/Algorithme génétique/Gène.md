@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Chromosome]]
+	- [[Candidat]]
+- Définition
+	- Un gène est un élément d'un chromosome qui encode une caractéristique particulière du candidat.
+- Sources
+	- [[An introduction to genetic algorithms]]
