@@ -1,0 +1,9 @@
+- Prérequis
+	- [[Déclaration]]
+	- [[Variable]]
+	- [[Valeur]]
+- Définition
+	-	Une déclaration d'attribution est une déclaration qui crée une variable et lui attribue une valeur.
+- Sources
+	- [[Think Python]]
+	- [[Programmation principes et pratiques en C++]]

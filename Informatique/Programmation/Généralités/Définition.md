@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Déclaration]]
+- Définition
+	-	Une définition est une déclaration spécifiant complètement la nouvelle entité déclarée.
+- Sources
+	- [[Programmation principes et pratiques en C++]]

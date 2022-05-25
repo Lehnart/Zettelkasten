@@ -1,0 +1,5 @@
+- Prérequis
+	- [[Langage de programmation]]
+- Définition
+	- Un mot clé est un symbole ayant une signification particulière dans un langage de programmation.
+- Sources

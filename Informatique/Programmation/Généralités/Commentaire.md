@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Programme]]
+- Définition
+	-	Un commentaire est une note dans un programme qui n'est pas exécuté et qui permet de commenter le programme.
+- Sources
+	- [[Think Python]]
+	- [[Programmation principes et pratiques en C++]]

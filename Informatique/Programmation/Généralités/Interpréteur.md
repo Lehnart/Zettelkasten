@@ -1,0 +1,7 @@
+- Prérequis
+	-  [[Programme]]
+	-  [[Langage de programmation]]
+- Définition
+	-	Un interpréteur est un programme qui lit un autre programme écrit dans un langage de programmation et l'exécute.
+- Sources
+	- [[Think Python]]

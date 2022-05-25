@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Instruction]]
+	- [[Type]]
+- Définition
+	-	Une déclaration est une instruction qui indique l'existence d'un nom d'une entité en lui spécifiant un type.
+- Sources	
+	- [[Think Python]]
+	- [[Programmation principes et pratiques en C++]]

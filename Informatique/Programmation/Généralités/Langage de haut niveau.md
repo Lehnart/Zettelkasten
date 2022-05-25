@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Langage de programmation]]
+- Définition
+	-	Un langage de haut niveau est un langage de programmation qui est facilement compréhensible par des humains.
+- Sources
+	- [[Think Python]]

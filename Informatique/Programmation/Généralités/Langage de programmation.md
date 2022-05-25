@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Langage formel]]
+	- [[Calcul]]
+- Définition
+	- Un langage de programmation est un langage formel qui permet d'exprimer des calculs.
+- Sources
+	- [[Think Python]]
+	- [[Programmation principes et pratiques en C++]]

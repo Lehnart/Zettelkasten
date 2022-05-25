@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Expression]]
+- Définition
+	- Un flux d'exécution est l'ordre dans lequel des expressions sont exécutées.
+- Sources
+	- [[Think Python]]
+	- [[Programmation principes et pratiques en C++]]

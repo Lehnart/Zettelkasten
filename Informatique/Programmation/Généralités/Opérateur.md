@@ -1,0 +1,9 @@
+- Prérequis
+	- [[Symbole]]
+	- [[Langage de programmation]]
+	- [[Calcul]]
+	- [[Variable]]
+- Définition
+	-	Un opérateur est un symbole d'un langage de programmation qui représente un calcul simple et agissant sur un certain nombre de variables.
+- Sources
+	- [[Think Python]]

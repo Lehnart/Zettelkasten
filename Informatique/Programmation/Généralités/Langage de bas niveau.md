@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Langage de programmation]]
+- Définition
+	-	Un langage de bas niveau est un langage de programmation concu pour être exécuté de manière performante par une machine.
+- Sources
+	- [[Think Python]]
