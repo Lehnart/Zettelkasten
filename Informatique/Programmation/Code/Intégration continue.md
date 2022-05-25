@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Code source]]
+	- [[Programme]]
+- Définition
+	-	L'intégration continue est le principe que plusieurs développeurs peuvent venir intégrer des modifications dans le code source d'un programme.
+- Sources
+	- [[Java Cookbook]]

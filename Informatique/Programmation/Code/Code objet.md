@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Code source]]
+	- [[Langage machine]]
+	- [[Ordinateur]]
+- Définition
+	-	Un code objet est un code en langage machine exécutable par un ordinateur.
+- Sources
+	-	[[Programmation principes et pratiques en C++]]

@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Compilation]]
+	- [[Bibliothèque]]
+- Définition
+	- L'édition de liens consiste après la compilation à résoudre les liens entre les bibliothèques.
+- Sources
+	- [[Clean Architecture]]
+	- [[Programmation principes et pratiques en C++]]

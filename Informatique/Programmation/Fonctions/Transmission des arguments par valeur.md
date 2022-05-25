@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Valeur]]
+	- [[Variable]]
+	- [[Informatique/Programmation/Fonctions/Fonction]]
+- Définition
+	-	La transmission des arguments par valeur consiste à copier la valeur des variables pour l'exécution de la fonction.
+- Sources
+	-	[[Exercices en langage C++]]

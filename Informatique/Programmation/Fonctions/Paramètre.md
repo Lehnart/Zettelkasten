@@ -1,0 +1,9 @@
+- Prérequis
+	- [[Définition de fonction]]
+	- [[Argument de fonction]]
+	- [[Valeur]]
+	- [[Variable]]
+- Définition
+-	Un paramètre est une variable dans la définition d'une fonction dont la valeur est celle d'un argument de la fonction.
+- Sources
+	- [[Think Python]]

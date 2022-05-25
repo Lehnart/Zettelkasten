@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Définition de fonction]]
+	- [[Argument de fonction]]
+- Définition
+	-	La surdéfinition de fonction est la possibilité d'avoir des fonctions définies avec le même nom mais avec des arguments de type et/ou de nombre différents.
+- Sources
+	-	[[Exercices en langage C++]]

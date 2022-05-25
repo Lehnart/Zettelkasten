@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Expression]]
+	- [[Calcul]]
+- Définition
+	-	Une fonction est une séquence d'expressions pouvant être nommé et effectuant un calcul.
+- Sources
+	- [[Think Python]]
+	- [[Programmation principes et pratiques en C++]]

@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Définition de fonction]]
+	- [[Valeur]]
+	- [[Variable]]
+- Définition
+	-	L'argument d'une fonction est une variable dont la valeur est employéee dans la définition de la fonction.
+- Sources
+	- [[Think Python]]

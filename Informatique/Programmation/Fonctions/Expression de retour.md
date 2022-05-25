@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Informatique/Programmation/Fonctions/Fonction]]
+	- [[Valeur]]
+- Définition
+	-	L'expression de retour est une valeur qui est le résultat de la fonction.
+- Sources
+	- [[Think Python]]

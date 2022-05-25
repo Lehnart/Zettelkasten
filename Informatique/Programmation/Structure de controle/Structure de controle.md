@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Expression]]
+	- [[Flux d'exécution]]
+- Définition
+	-	Une structure de controle est une expression permettant de controler le flux d'exécution.
+- Sources
+		- [[Think Python]]

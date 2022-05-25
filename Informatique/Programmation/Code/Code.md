@@ -1,0 +1,5 @@
+- Prérequis
+	- [[Signe d'écriture|Caractère]]
+- Définition
+	-	Un code est un système structuré de caractères.
+- Sources

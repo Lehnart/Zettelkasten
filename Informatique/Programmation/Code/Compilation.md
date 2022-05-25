@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Code source]]
+	- [[Code objet]]
+- Définition
+	-	La compilation est l'action qui transforme du code source en code objet.
+- Sources
+	- [[Java Cookbook]]

@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Variable]]
+	- [[Informatique/Programmation/Fonctions/Fonction]]
+- Définition
+	-	Une variable locale est une variable qui existe uniquement dans une fonction.
+- Sources
+	- [[Think Python]]

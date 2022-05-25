@@ -1,0 +1,9 @@
+- Prérequis
+	- [[Informatique/Programmation/Fonctions/Fonction]]
+	- [[Argument de fonction]]
+	- [[Type]]
+	- [[Expression de retour]]
+- Définition
+-	Une interface d'une fonction est la description de comment l'utiliser : noms, arguments, type des arguments, et type de retour.
+- Sources
+	- [[Think Python]]

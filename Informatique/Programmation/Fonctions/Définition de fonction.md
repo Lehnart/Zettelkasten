@@ -1,0 +1,9 @@
+- Prérequis
+	- [[Informatique/Programmation/Fonctions/Fonction]]
+	- [[Argument de fonction]]
+	- [[Expression]]
+- Définition
+	- Une définition d'une fonction spécifie le nom d'une nouvelle fonction, ses arguments et leur type, ainsi que la séquence des expressions composants la fonction.
+- Sources
+	- [[Think Python]]
+	- [[Programmation principes et pratiques en C++]]

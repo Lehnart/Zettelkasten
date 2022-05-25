@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Informatique/Programmation/Fonctions/Fonction]]
+- Définition
+	-	Une fonction anonyme est une fonction qui n'est pas nommée.
+- Sources
+	- [[The Rust programming language]]
+	- [[Haskell programming from first principles]]

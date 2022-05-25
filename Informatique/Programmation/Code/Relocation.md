@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Compilation]]
+	- [[Mémoire]]
+	- [[Code source]]
+- Définition
+	-	La relocation consiste à avoir du code objet qui fonctionne quelque soit son emplacement dans la mémoire.
+- Sources
+	- [[Clean Architecture]]

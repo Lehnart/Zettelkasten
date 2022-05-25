@@ -1,0 +1,9 @@
+- Prérequis
+	- [[Code]]
+	- [[Langage de programmation]]
+	- [[Programme]]
+- Définition
+	-	Un code source est un code écrit dans un langage de programmation et qui peut être converti ou interprété comme un programme exécutable.
+- Sources
+	- [[Java Cookbook]]
+	- [[Programmation principes et pratiques en C++]]

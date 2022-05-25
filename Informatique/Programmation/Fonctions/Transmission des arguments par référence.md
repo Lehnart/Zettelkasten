@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Variable]]
+	- [[Informatique/Programmation/Fonctions/Fonction]]
+- Définition
+	-	La transmission des arguments par référence consiste à passer directement les variables dans l'exécution de la fonction.
+- Sources
+	- [[Exercices en langage C++]]

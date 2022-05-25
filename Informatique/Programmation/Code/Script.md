@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Fichier]]
+	- [[Code source]]
+	- [[Programme]]
+- Définition
+	-	Un script est un fichier de code source que l'on donne directement à un programme pour qu'il soit exécuté.
+- Sources
+	-	[[Think Python]]

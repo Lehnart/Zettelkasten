@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Définition de fonction]]
+	- [[Expression]]
+	- [[Informatique/Programmation/Fonctions/Fonction]]
+- Définition
+	-	La généralisation consiste à ajouter un argument à une fonction déjà définie.
+- Sources
+	- [[Think Python]]

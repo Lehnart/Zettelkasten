@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Structure de controle]]
+	- [[Expression]]
+- Définition
+	-	Une boucle est une structure de controle permettant d'exécuter plusieurs fois des expressions.
+- Sources
+	- [[Think Python]]
