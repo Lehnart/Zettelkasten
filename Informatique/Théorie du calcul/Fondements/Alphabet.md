@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Ensemble fini]]
+	- [[Ensemble vide]]
+- Définition
+	-	Un alphabet est un ensemble fini non vide.
+- Sources
+	-	[[Introduction to computation theory]]

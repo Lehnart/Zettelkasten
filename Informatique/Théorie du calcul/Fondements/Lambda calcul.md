@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Fonction]]
+	- [[Application]]
+	- [[Langage formel|Système formel]]
+- Définition
+	-	Le lambda calcul est un système formel qui se fonde sur les concepts de fonction et d'application.
+- Sources
+	- [[Haskell programming from first principles]]

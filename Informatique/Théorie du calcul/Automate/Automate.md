@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Calcul]]
+	- [[Séquence]]
+	- [[Algorithme|Opération]]
+- Définition
+	-	Un automate est un modèle de dispositif de calcul qui suit une séquence d'opérations automatiquement.
+- Sources
+	- [Wikipédia](https://en.wikipedia.org/wiki/Automata_theory)

@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Langage]]
+	- [[Automate fini]]
+	- [[Informatique/Théorie du calcul/Fondements/Chaîne de caractères]]
+- Définition
+	-	Un automate fini reconnait un langage si l'automate accepte toutes les chaînes de caractères du langage.
+- Sources
+	- [[Introduction to computation theory]]

@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Langage]]
+- Définition
+	-	La sémantique est l'étude de la signification d'un langage.
+- Sources
+	-	[Wikipédia](https://fr.wikipedia.org/wiki/S%C3%A9mantique_des_langages_de_programmation)

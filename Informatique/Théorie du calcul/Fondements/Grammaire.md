@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Langage formel]]
+- Définition
+	-	Une grammaire est un formalisme permettant de définir un langage formel.
+- Sources
+	- [[Programming game AI by example]]
+	- [[Programmation principes et pratiques en C++]]

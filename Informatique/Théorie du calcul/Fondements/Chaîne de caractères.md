@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Signe d'écriture|Caractère]]
+	- [[Tuple]]
+- Définition
+	-	Une chaîne de caractères est un tuple de caractères.
+- Sources
+	- [[Introduction to computation theory]]
+	- [[Think Python]]

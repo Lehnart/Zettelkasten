@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Automate]]
+- Définition
+	-	Un automate universel logique est un automate capable de réaliser toutes les opérations logiques possibles.
+- Sources
+	- [[Theory of self reproducing automata]]

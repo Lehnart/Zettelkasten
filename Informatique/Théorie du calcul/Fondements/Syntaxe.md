@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Langage]]
+- Définition
+	-	La syntaxe est l'étude de l'agencement des chaînes de caractères pour former des énoncés.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Syntaxe)

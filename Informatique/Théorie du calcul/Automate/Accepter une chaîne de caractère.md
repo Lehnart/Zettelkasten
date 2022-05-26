@@ -1,0 +1,10 @@
+- Prérequis
+	- [[Automate fini]]
+	- [[Informatique/Théorie du calcul/Fondements/Chaîne de caractères]]
+- Définition
+	-	Un automate fini accepte une chaîne de caractères $w$ si les états successifs $r_0, ..., r_n$ pris par l'automate respectent :
+		- $r_0 = q_0$
+		- $\delta(r_i, w_{i+1}) = r_{i+1}$
+		- $r_i \in F$		
+- Sources
+	- [[Introduction to computation theory]]

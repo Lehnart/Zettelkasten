@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Informatique/Théorie du calcul/Fondements/Chaîne de caractères]]
+	- [[Sémantique]]
+	- [[Syntaxe]]
+- Définition
+	-	Un langage est un ensemble de chaines de caractères, doté d'une sémantique et d'une syntaxe.
+- Sources
+	- [[Introduction to computation theory]]

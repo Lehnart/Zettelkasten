@@ -6,3 +6,4 @@
 	- Une chaîne de caractère est un type qui représente une séquence de caractères.
 - Sources
 	- [[Think Python]]
+	- [[Introduction to computation theory]]

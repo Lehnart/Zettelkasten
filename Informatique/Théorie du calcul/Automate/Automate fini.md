@@ -1,0 +1,17 @@
+---
+aliases : [Automate fini, Machine à états finis]
+---
+- Prérequis
+	- [[Tuple]]
+	- [[Ensemble fini]]
+	- [[Alphabet]]
+	- [[Table de transition d'états|Fonction de transition]]
+- Définition
+	-	Un automate fini est un 5-tuple ($Q$, $\Sigma$, $\delta$, $q_0$, $F$) :
+		-	$Q$ est une ensemble fini, l'ensemble des états.
+		-	$\Sigma$ est un ensemble fini, l'alphabet.
+		-	$\delta : Q \times \Sigma \rightarrow Q$ est la fonction de transition
+		-	$q_0 \in Q$ est l'état de départ.
+		-	$F \subset Q$ est l'ensemble des états possibles. 
+- Sources
+	- [[Introduction to computation theory]]
