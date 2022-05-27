@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Automate cellulaire]]
+- Définition
+	-	Une cellule est un élément d'un automate cellulaire avec un état donné.
+- Sources	
+	- [Wikipédia](https://en.wikipedia.org/wiki/Cellular_automaton)

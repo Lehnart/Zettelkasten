@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Document]]
+	- [[Hypertexte]]
+- Définition
+	-	Un hyperlien est un lien dans un système hypertexte permettant de passer d'un document à un autre.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Hypertexte)

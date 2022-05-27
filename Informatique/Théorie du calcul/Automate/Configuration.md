@@ -1,0 +1,7 @@
+- Prérequis	
+	- [[Automate cellulaire]]
+	- [[Informatique/Théorie du calcul/Automate/Cellule]]
+- Définition
+	-	La configuration d'un automate cellulaire est l'ensemble des états des cellules à un moment donné.
+- Sources
+	-	[Wikipedia](https://en.wikipedia.org/wiki/Cellular_automaton)

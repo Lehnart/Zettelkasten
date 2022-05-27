@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Configuration]]
+- Définition
+	-	Le prédécesseur d'une configuration donnée est une configuration qui au prochain pas de temps donnera la configuration donnée.
+- Sources
+	- [Wikipédia](https://en.wikipedia.org/wiki/Cellular_automaton)

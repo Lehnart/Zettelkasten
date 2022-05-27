@@ -1,0 +1,5 @@
+- Prérequis
+- Définition
+	-	Un document est un ensemble formé par un support et une information.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Hypertexte)

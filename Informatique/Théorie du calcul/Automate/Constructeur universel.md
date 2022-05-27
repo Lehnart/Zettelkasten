@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Configuration]]
+	- [[Automate cellulaire]]
+- Définition
+	-	Un constructeur universel est une configuration d'un automate cellulaire qui a la capacité de construie une configuration donnée à partir d'une ligne d'états.
+- Sources
+	- [[Theory of self reproducing automata]]

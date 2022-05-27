@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Modèle de calcul]]
+	- [[Automate]]
+- Définition
+	-	Un automate cellulaire est un modèle de calcul discret composé d'une grille régulière et uniforme d'états discrets, qui évolue par pas de temps.
+- Sources
+	- [Wikipédia](https://en.wikipedia.org/wiki/Cellular_automaton)

@@ -1,0 +1,8 @@
+- Prérequis
+	- [[Langage]]
+	- [[Automate fini]]
+	- [[Reconnaitre un langage]]
+- Définition
+	-	Un langage régulier est un langage tel qu'il existe un automate fini qui reconnait ce langage.
+- Sources
+	- [[Introduction to computation theory]]

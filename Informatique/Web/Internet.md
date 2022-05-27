@@ -1,0 +1,6 @@
+- Prérequis
+	- [[Réseau informatique]]
+- Définition
+	-	Internet est un réseau informatique mondiale accessible.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Internet)

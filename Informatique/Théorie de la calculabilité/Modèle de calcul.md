@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Calcul]]
+	- [[Fonction]]
+- Définition
+	-	Un modèle de calcul est un modèle qui décrit comment le résultat d'une fonction mathématique est obtenu à partir d'entrées.
+- Sources
+	- [Wikipédia](https://en.wikipedia.org/wiki/Model_of_computation)

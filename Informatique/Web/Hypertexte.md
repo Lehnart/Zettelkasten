@@ -1,0 +1,7 @@
+- Prérequis
+	- [[Hyperlien]]
+	- [[Document]]
+- Définition
+	-	Un hypertexte est un document ou un ensemble de document contenant des unités d'informations reliées entre elles par des hyperliens.
+- Sources
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Hypertexte)
